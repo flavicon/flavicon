@@ -1,6 +1,6 @@
-### Hi, my name is Flávio Silva. 😁
+## Hi, my name is Flávio Silva. 😁
 
-## 🌱 I’m currently learning Javascript, HTMl, CSS, React.js and Next.js 
+### 🌱 I’m currently learning Javascript, HTMl, CSS, React.js and Next.js 
 
 
 <!--
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
