@@ -1,3 +1,6 @@
+<img src="my-profile.jpg" />
+
+
 ## Hi, my name is Flávio Silva. 😁
 
 ### 🌱 I’m currently learning Javascript, HTMl, CSS, React.js and Next.js 
