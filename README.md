@@ -6,7 +6,7 @@
 ### I'm a young Frontend developer
 ### I’m currently learning Javascript, HTMl, CSS, React.js and Next.js 
 
-<a href="https://google.com"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" traget="_blank"> </a>
+<a href="https://google.com"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
  <!--
 **flavicon/flavicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
