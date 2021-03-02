@@ -5,7 +5,7 @@
 
 ### I'm a young Frontend developer
 
-### I’m currently learning Javascript, HTMl, CSS, React.js and Next.js 
+### I’m currently learning Javascript, HTML, CSS, React.js and Next.js 
 
 
 
