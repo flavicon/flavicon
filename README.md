@@ -1,7 +1,7 @@
 <img src="my-profile.jpg" />
 
 
-## Hi, how you doin?
+## Hi, how you doin? 😅☕
 
 ### I'm Flávio and i'm a frontend developer.
 
