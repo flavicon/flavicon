@@ -1,9 +1,11 @@
 <img src="my-profile.jpg" />
 
 
-## Hi, my name is Flávio Silva. 
+## Hi, how you doin?
 
-### I'm a young Frontend developer
+### I'm Flávio and i'm a frontend developer.
+
+### I love technology ❤️
 
 ### I’m currently learning Javascript, HTML, CSS, React.js and Next.js 
 
