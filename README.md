@@ -1,5 +1,5 @@
 
-## Hi, how you doin? :coffee:
+## Hi, how you doin'? :coffee:
 
 ### My name's Flávio, i'm a frontend developer looking for new challenges, I love to learn new technologies.
 
