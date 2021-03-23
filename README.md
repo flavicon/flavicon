@@ -1,17 +1,15 @@
 
 
-## Oi, como você está? :coffee: ![Contributor Display](https://github.com/flavicon.png?size=50&padding=5&bots=true)
+## Oi, como você está? :coffee:
 
-### Meu nome é Flávio, sou desenvolvedor Front-end e atualmente tenho dedicado meus estudos a, I love to learn new technologies.
+### Meu nome é Flávio, sou desenvolvedor Front-end e atualmente tenho dedicado meus estudos :books: a aprender ReactJS, sou apaixonado por desenvolvimento :hearts:.
 
 
-### I’m currently learning React in Rocketseat :rocket: 
-
-### Developed recently: https://moveit-flavicon.vercel.app
+### Atualmente estudo na Rocketseat :rocket: na trilha de ReactJS e também faço curso na IWtrainning para me especializar nas tecnologias front-end.
 
 
 
-#### Contact: 
+#### Contatos: 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flavio.devjs@gmail.com)
 
@@ -20,8 +18,6 @@
 #### Social:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-silva-180026202/)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flav.io_jr/)
 
 
 
