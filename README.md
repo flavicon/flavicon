@@ -1,7 +1,8 @@
+[![Contributor Display](https://github.com/flavicon.png?size=50&padding=5&bots=true)]
 
-## Hi, how you doin'? :coffee:
+## Oi, como você está? :coffee:
 
-### My name's Flávio, i'm a frontend developer looking for new challenges, I love to learn new technologies.
+### Meu nome é Flávio, sou desenvolvedor Front-end e atualmente tenho dedicado meus estudos a, I love to learn new technologies.
 
 
 ### I’m currently learning React in Rocketseat :rocket: 
