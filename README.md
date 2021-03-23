@@ -28,7 +28,7 @@
 
 
 
-![Minhas estatiticas no Github 😄](https://github-readme-stats.vercel.app/api?username=flavicon&show_icons=true&theme=dracula) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=flavicon&theme=blue-green)
+![Minhas estatiticas no Github 😄](https://github-readme-stats.vercel.app/api?username=flavicon&show_icons=true&theme=dracula) &nbsp; ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=flavicon&theme=dracula)
 
 
  <!--
