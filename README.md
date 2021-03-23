@@ -1,6 +1,6 @@
-[![Contributor Display](https://github.com/flavicon.png?size=50&padding=5&bots=true)]
 
-## Oi, como você está? :coffee:
+
+## Oi, como você está? :coffee: ![Contributor Display](https://github.com/flavicon.png?size=50&padding=5&bots=true)
 
 ### Meu nome é Flávio, sou desenvolvedor Front-end e atualmente tenho dedicado meus estudos a, I love to learn new technologies.
 
