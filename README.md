@@ -2,7 +2,7 @@
 
 ## Oi, como você está? :coffee:
 
-### Meu nome é Flávio, sou desenvolvedor Front-end e atualmente tenho dedicado meus estudos :books: a aprender ReactJS, sou apaixonado por desenvolvimento :hearts:.
+### Meu nome é Flávio, sou desenvolvedor Front-end e atualmente tenho dedicado meus estudos :books: a aprender ReactJS, sou apaixonado por desenvolvimento :hearts:
 
 
 ### Atualmente estudo na Rocketseat :rocket: na trilha de ReactJS e também faço curso na IWtrainning para me especializar nas tecnologias front-end.
