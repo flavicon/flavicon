@@ -28,7 +28,7 @@
 
 
 
-![Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavicon&show_icons=true&theme=dracula)
+![Minhas estatiticas no Github 😄](https://github-readme-stats.vercel.app/api?username=flavicon&show_icons=true&theme=dracula)
 
  <!--
 **flavicon/flavicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
