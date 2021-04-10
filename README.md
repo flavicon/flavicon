@@ -5,7 +5,7 @@
 ### Meu nome é Flávio, sou desenvolvedor Front-end e atualmente tenho dedicado meus estudos :books: a aprender ReactJS, sou apaixonado por desenvolvimento :hearts:
 
 
-### Atualmente estudo na Rocketseat :rocket: na trilha de ReactJS e também faço curso na IWtrainning para me especializar nas tecnologias front-end.
+### Atualmente estudo na <a href="https://rocketseat.com.br" target="_blank">Rocketseat :rocket: </a> na trilha de ReactJS e também faço curso na <a href="https://www.iwtraining.com.br/" target="_blank">IWtraining</a> para me especializar nas tecnologias front-end.
 
 
 
