@@ -5,9 +5,9 @@
 ### Meu nome é Flávio, sou desenvolvedor Front-end 
 
 ### Um pouco sobre mim: 
->### Tenho 23 anos, estou na área de TI há 6 anos, sou graduado em redes de computadores
->### atualmente tenho aperfeiçoado em ReactJS na <a href="https://rocketseat.com.br" target="_blank">Rocketseat :rocket: </a>  
->### sou apaixonado por tecnologia :hearts:
+>#### Tenho 23 anos, estou na área de TI há 6 anos, sou graduado em redes de computadores
+>#### atualmente tenho aperfeiçoado em ReactJS na <a href="https://rocketseat.com.br" target="_blank">Rocketseat :rocket: </a>  
+>#### sou apaixonado por tecnologia :hearts:
 
 #### Skills:
 
