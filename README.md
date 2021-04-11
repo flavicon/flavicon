@@ -9,14 +9,12 @@
 > atualmente tenho aperfeiçoado em ReactJS na <a href="https://rocketseat.com.br" target="_blank">Rocketseat :rocket: </a> <br>
 > sou apaixonado por tecnologia :hearts:</p>
 
-<hr>
 
 #### Skills:
 
 > ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/typescript-f6f6f6?style=for-the-badge&logo=typescript&logoColor=blue)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![](https://img.shields.io/badge/Next.js-lightgray?style=for-the-badge&logo=next.js&logoColor=black)![](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=black)![](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux&logoColor=black)
 
-<hr>
 
 #### Contatos: 
 
