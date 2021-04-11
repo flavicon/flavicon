@@ -6,7 +6,7 @@
 
 ### Um pouco sobre mim: 
 > <p>Tenho 23 anos, estou na área de TI há 6 anos, sou graduado em redes de computadores <br>
-> atualmente tenho aperfeiçoado em ReactJS na <a href="https://rocketseat.com.br" target="_blank">Rocketseat :rocket: </a> <br>
+> atualmente tenho me aperfeiçoado em ReactJS na <a href="https://rocketseat.com.br" target="_blank">Rocketseat :rocket: </a> <br>
 > sou apaixonado por tecnologia :hearts:</p>
 
 
