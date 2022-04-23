@@ -50,13 +50,16 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flavicon&label=Profile%20views&color=0e75b6&style=flat" alt="flavicon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flavicon" alt="flavicon" /></a> </p>
-
 - 🌱 I’m currently learning **PHP**
 
 - 💬 Ask me about **react, nodejs and linux**
 
 - 📫 How to reach me **flavio.devjs@gmail.com**
+
+### About me: 
+> <p>I'm 24 years old, I'm working with technology since 2015. <br>
+> I'm currently working on developing web applications and Rest API with technologies like ReactJS, NextJS and NodeJS<br>
+> In my free time I like to watch good movies and spend time with my family. :hearts:</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
