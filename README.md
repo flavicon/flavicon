@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 [![reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=212529&style=for-the-badge)](https://reactjs.org)
 [![nextjs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![node](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white)](http://expressjs.com/pt-br/)
 [![linux](https://img.shields.io/badge/linux-ffb703?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 
 ## 🔗 Links
