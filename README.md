@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 > I am currently working on web application development with technologies such as ReactJS, NextJS and NodeJS.
 > In my free time I like to watch good movies and spend time with my family.
 ## 🛠 Skills
-[![js](https://img.shields.io/badge/-javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction)
+[![js](https://img.shields.io/badge/-javascript-ffb703?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction)
 [![ts](https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org) 
 [![reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=212529&style=for-the-badge)](https://reactjs.org)
 [![nextjs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
