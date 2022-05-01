@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 
 ## 🚀 About me
 
-> I'm 24 years old, I'm working with development since 2021.
-> I am currently working on web application development with technologies such as ReactJS, NextJS and NodeJS.
+> I'm 24 years old, I'm working with development since 2021. <br>
+> I am currently working on web application development with technologies such as ReactJS, NextJS and NodeJS. <br>
 > In my free time I like to watch good movies and spend time with my family.
 
 ## 🛠 Skills
