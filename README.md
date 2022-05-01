@@ -45,56 +45,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Flávio Silva</h1>
-<h3 align="center">A passionate software developer from Brazil</h3>
+# Hi, I'm Flávio Silva 👋
+[![profile](https://komarev.com/ghpvc/?username=flavicon&label=Profile%20views&color=0e75b6&style=flat)]()
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=flavicon&label=Profile%20views&color=0e75b6&style=flat" alt="flavicon" /> </p>
 
-- 🌱 I’m currently learning **PHP**
+## 🚀 About me
 
-- 💬 Ask me about **react, nodejs and linux**
+> I'm 24 years old, I'm working with development since 2020.
+> I am currently working on web application development with technologies such as ReactJS, NextJS and NodeJS.
+> In my free time I like to watch good movies and spend time with my family.
+## 🛠 Skills
+[![js](https://img.shields.io/badge/-javascript-yellow?logo=javascript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction)
+[![ts](https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org) 
+[![reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=212529&style=for-the-badge)](https://reactjs.org)
+[![nextjs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![node](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white)](http://expressjs.com/pt-br/)
+[![linux](https://img.shields.io/badge/linux-ffb703?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 
-- 📫 How to reach me **flavio.devjs@gmail.com**
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flavicon.github.io/portifolio/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-silva-180026202/)
 
-### About me: 
-> <p>I'm 24 years old, I'm working with technology since 2015. <br>
-> I'm currently working on developing web applications and Rest API with technologies like ReactJS, NextJS and NodeJS<br>
-> In my free time I like to watch good movies and spend time with my family. :hearts:</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/flavio-silva-180026202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="flavio-silva-180026202" height="30" width="40" /></a>
-<a href="https://instagram.com/flavioss___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flavioss___" height="30" width="40" /></a>
-<a href="https://discord.gg/flavicon 👽#1449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="flavicon 👽#1449" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- </a> 
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
- </a> 
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
- </a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
- </a> 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
- </a>
- <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
- </a> 
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>  
- </a> 
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- </a> 
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
- </a>
-</p>
