@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## 🚀 About me
 
 > I'm 24 years old, I'm working with development since 2021. <br>
-> I am currently working on web application development with technologies such as ReactJS, NextJS and NodeJS. <br>
+> I'm currently working on web application development with technologies such as ReactJS, NextJS and NodeJS. <br>
 > In my free time I like to watch good movies and spend time with my family.
 
 ## 🛠 Skills
@@ -66,5 +66,7 @@ Here are some ideas to get you started:
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flavicon.github.io/portifolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-silva-180026202/)
+
+![Minhas estatiticas no Github 😄](https://github-readme-stats.vercel.app/api?username=flavicon&show_icons=true&theme=dracula) &nbsp; ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=flavicon&theme=dracula)
 
 
