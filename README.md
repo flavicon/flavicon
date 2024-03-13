@@ -58,7 +58,7 @@ I love creating new products that help make the world better.
 [![linux](https://img.shields.io/badge/linux-ffb703?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 
 ## 🔗 Links
-[![rockstar agency](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rockstaragency.pro)
+[![rockstar agency](https://img.shields.io/badge/rockstar-agency-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rockstaragency.pro)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-silva-180026202/)
 
 <!-- ![Minhas estatiticas no Github 😄](https://github-readme-stats.vercel.app/api?username=flavicon&show_icons=true&theme=dark)-->
