@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ## 🚀 About me
-Web developer since 2020, expert in React.js and Node.js.
+Web developer since 2020.
 I love creating new products that help make the world better.
 
 ## 🛠 Skills
