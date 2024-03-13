@@ -43,22 +43,22 @@ Here are some ideas to get you started:
 
 
 ## 🚀 About me
-
-> I'm 24 years old, I'm working with development since 2021. <br>
-> I'm currently working on web application development with technologies such as ReactJS, NextJS and NodeJS. <br>
-> In my free time I like to watch good movies and spend time with my family.
+Web developer since 2020, expert in React.js and Node.js.
+I love creating new products that help make the world better.
 
 ## 🛠 Skills
 [![js](https://img.shields.io/badge/-javascript-ffb703?logo=javascript&logoColor=black&style=for-the-badge)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction)
 [![ts](https://img.shields.io/badge/-typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org) 
 [![reactjs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=212529&style=for-the-badge)](https://reactjs.org)
 [![nextjs](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![remix](https://img.shields.io/badge/remix-black?style=for-the-badge&logo=remix&logoColor=white)](https://remix.run/)
 [![node](https://img.shields.io/badge/nodejs-green?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![linux](https://img.shields.io/badge/linux-ffb703?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org)
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flavicon.github.io/portifolio/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-silva-180026202/)
+[![rockstar agency](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rockstaragency.pro)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fl%C3%A1vio-silva-180026202/)
 
 <!-- ![Minhas estatiticas no Github 😄](https://github-readme-stats.vercel.app/api?username=flavicon&show_icons=true&theme=dark)-->
